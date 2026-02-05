@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Mikhail Bond](https://github.com/mikhailbond1), [Albert Chen](https://github.com/azc9673), [Chenyu Jiang](https://github.com/ginny1536), [Suri Su](https://github.com/suri-zip), [Tim Xu](https://github.com/TimXu2006)
 
 ## Stakeholders
 
