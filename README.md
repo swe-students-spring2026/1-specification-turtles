@@ -44,8 +44,11 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 
 ## Activity Diagrams
+**Recieve Rental Request**
+![renter1](static/renter1.png)
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+**List Furniture Item**
+![renter2](static/renter2.png)
 
 ## Clickable Prototype
 
