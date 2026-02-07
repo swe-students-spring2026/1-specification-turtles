@@ -40,7 +40,7 @@ Interview Subject: A student who has their own production company and often rent
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+A peer-to-peer marketplace where college students can buy, sell, rent, and borrow second-hand furniture from one another, creating a safe environment for affordable, eco-friendly furnishings.
 
 ## User Requirements
 
