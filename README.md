@@ -26,16 +26,16 @@ Interview Subject: A student who has their own production company and often rent
 During the interview, a candidate of the "renters" demographic of the app talked about his desire to make use of his unused furniture, earn extra side money, and decrease furniture waste. See the full list of his goals/frustrations below:
 
 **Goals / Needs:**
-- Make use of furniture that would otherwise sit unused while traveling or studying abroad
-- Decrease waste of unused items
-- Earn extra income by renting furniture to other students
-- Make use of furniture items during break times such as winter or summer break
+1. Make use of furniture that would otherwise sit unused while traveling or studying abroad
+2. Decrease waste of unused items
+3. Earn extra income by renting furniture to other students
+4. Make use of furniture items during break times such as winter or summer break
 
 **Problems / Frustrations:**
-- Furniture remains unused for months when they are away from school
-- Limited income and financial pressure as college students
-- No easy way to safely lend other students furniture in the short term 
-- Limited space in apartment makes storing unused furniture inconvenient
+1. Furniture remains unused for months when they are away from school
+2. Limited income and financial pressure as college students
+3. No easy way to safely lend other students furniture in the short term 
+4. Limited space in apartment makes storing unused furniture inconvenient
 
 ### Renters: 
 Interview Subject: An international student who is a senior in college and is currently looking for new furniture for their last year living around campus. See the full list of their goals and frustration below.
@@ -72,16 +72,16 @@ Interview subject: A student who is experienced in buying and selling ACG goods 
 An international student at NYU was interviewed about their experience purchasing secondhand furniture while living off campus. See the full list of their goals/fristrations below:
 
 **Goals / Needs:**
-- Find furniture at a significantly lower price than new items
-- Make sure that items are up to quality and in good condition before buying
-- Opportunities to discover furniture with unique aesthetic/style that cannot be found in typical stores
-- Reduce waste by reusing furniture
+1. Find furniture at a significantly lower price than new items
+2. Make sure that items are up to quality and in good condition before buying
+3. Opportunities to discover furniture with unique aesthetic/style that cannot be found in typical stores
+4. Reduce waste by reusing furniture
 
 **Problems / Frustrations**
-- Difficulty finding specific styles/sizes/colors that match their needs
-- Challenges in transporting bulky items, especially as a student without a car in NYC
-- Lack of warranty if the furniture doesn't meet expectations or breaks quickly
-- Worry about hidden damages that sellers would potentially cover up for a better price
+1. Difficulty finding specific styles/sizes/colors that match their needs
+2. Challenges in transporting bulky items, especially as a student without a car in NYC
+3. Lack of warranty if the furniture doesn't meet expectations or breaks quickly
+4. Worry about hidden damages that sellers would potentially cover up for a better price
 
 ## Product Vision Statement
 
@@ -165,6 +165,9 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 ### Renters
 **As a renter, I want to rent only when both the item is available and when the owner is available, so that I don’t need to cancel my booking due to the furniture’s unavailability.**
 ![Rental Dates Conflict Diagram](static/RentalDatesConflict.png)
+
+**As a renter, I want to be able to end my rental period earlier, so that I can get a refund for the days I don't need it anymore if my plans change.**
+![Make Changes To Rental Diagram](static/MakeChangesToRental.png)
 
 ### Buyers
 **View and Select Listings**
