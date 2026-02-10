@@ -133,6 +133,13 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 **View Your Listings**
 (View Your Listings)[static/viewListing.png]
 
+### Lenders
+**Add Listing**
+![Add Listing Diagram](static/AddListing.png)
+
+**Rental Dates Conflict**
+![Rental Dates Conflict Diagram](static/RentalDatesConflict.png)
+
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
