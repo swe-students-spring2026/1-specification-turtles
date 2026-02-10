@@ -142,4 +142,6 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Click (here)[https://www.figma.com/design/tinB5jIVPK3t07VVoDa5xX/turtle_Wireframe?node-id=0-1&t=wJV6R6hu07N2L0vz-1] for the clickable prototype.
+
+Click (here)[https://www.figma.com/board/uiMbACvNZ26yQVaQhiYjSI/turtle_AppMap?t=wJV6R6hu07N2L0vz-1] for the app map.
