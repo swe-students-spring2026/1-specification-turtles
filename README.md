@@ -23,7 +23,7 @@ During the interview, a candidate of the "renters" demographic of the app talked
 - No easy way to safely lend other students furniture in the short term 
 - Limited space in apartment makes storing unused furniture inconvenient
 
-### Lenders:
+### rentees:
 Interview Subject: A student who has their own production company and often rents out their gears to other people. See the full list of their goals/fristrations below:
 
 **Goals / Needs:**
@@ -99,18 +99,31 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 - As a buyer, I want a short return period so that I don't lose anything if the item isn’t as described or breaks right away.
 - As a buyer, I want to see how buying second-hand helps reduce waste so that I feel good about making an eco-friendly choice.
 
-### Lenders:
-- As a lender, I want to create detailed listings with accurate labels and multiple photos, so that renters can know exactly what they are renting and have fewer complaints or questions for me.
-- As a lender, I want to set my rental prices and available dates for each of my listings, so that I have control over my own listings’ availability and achieve the income I want.
-- As a lender, I want to set my rental status on my profile, so that I can click only one button to stop receiving all rental requests until I open the status back up.
-- As a lender, I want to rate renters who have rented from me, so that I can inform the other lenders whether they should rent to this renter or not in the future.
-- As a lender, I want to see the ratings of the renters who sent my rental requests, so that I can use them as a standard to decide whether or not to accept them.
-- As a lender, I want to see detailed information about the person renting from me, so that I know who is renting from me and can make an informed decision about their reliability.
-- As a lender, I want to receive immediate notifications of receiving a rental request, so that I can reply to the request quickly and conveniently, and not miss any rental opportunities. 
-- As a lender, I want to set a general pickup location on my profile, so that people don’t cancel rental requests because they found out the location is too far after booking it, while protecting my privacy regarding the exact location of my home.
-- As a lender, I want to pay money for promoting my listings, so that I can let more people see my listings and have more rental requests.
-- As a lender, I want a built-in message system that keeps track of all the history of unsent and edited message functions, so that I can document all verbal agreements and communications in one place to protect myself from fraud.
-- As a lender, I want to set my own terms of delivery and pickup policies and post them along with the listings, so that renters know exactly how to receive the item they rented, and it suits my convenience as an owner.
+### Rentees:
+- As a rentee, I want to create detailed listings with accurate labels and multiple photos, so that renters can know exactly what they are renting and have fewer complaints or questions for me.
+- As a rentee, I want to set my rental prices and available dates for each of my listings, so that I have control over my own listings’ availability and achieve the income I want.
+- As a rentee, I want to set my rental status on my profile, so that I can click only one button to stop receiving all rental requests until I open the status back up.
+- As a rentee, I want to rate renters who have rented from me, so that I can inform the other rentees whether they should rent to this renter or not in the future.
+- As a rentee, I want to see the ratings of the renters who sent my rental requests, so that I can use them as a standard to decide whether or not to accept them.
+- As a rentee, I want to see detailed information about the person renting from me, so that I know who is renting from me and can make an informed decision about their reliability.
+- As a rentee, I want to receive immediate notifications of receiving a rental request, so that I can reply to the request quickly and conveniently, and not miss any rental opportunities. 
+- As a rentee, I want to set a general pickup location on my profile, so that people don’t cancel rental requests because they found out the location is too far after booking it, while protecting my privacy regarding the exact location of my home.
+- As a rentee, I want to pay money for promoting my listings, so that I can let more people see my listings and have more rental requests.
+- As a rentee, I want a built-in message system that keeps track of all the history of unsent and edited message functions, so that I can document all verbal agreements and communications in one place to protect myself from fraud.
+- As a rentee, I want to set my own terms of delivery and pickup policies and post them along with the listings, so that renters know exactly how to receive the item they rented, and it suits my convenience as an owner.
+
+### Sellers:
+- As a seller, I want to verify that buyers are NYU students so that I feel safe selling to them.
+- As a seller, I want to create a listing with photos, price, and condition so that buyers clearly understand what I’m selling.
+- As a seller, I want the app to suggest a fair price based on similar NYU listings so that I can sell faster without guessing.
+- As a seller, I want to set a deadline for when the item must be gone so that buyers understand urgency.
+- As a seller, I want to specify pickup or delivery options so that logistics are clear upfront.
+- As a seller, I want to communicate with buyers through in-app messaging so that I don’t have to switch between different apps or share my phone number.
+- As a seller, I want to receive and confirm payment within the same app so that buyers and sellers from different countries don’t struggle with incompatible payment platforms.
+- As a seller, I want to schedule pickup time windows in the app so that coordinating across time zones and schedules is simple.
+- As a seller, I want to mark an item as pending or sold so that I stop receiving unnecessary messages.
+- As a seller, I want clear payment status (paid / unpaid / pending) so that there is no confusion at pickup time.
+
 
 ### Admin:
 - As an admin, I want to review reported listings so that I can remove inappropriate or fraudulent content.
@@ -128,20 +141,32 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 
 ### Renters
 **Manage Listing Requests**
-(Manage Listing Requests)[static/listingRequests.png]
+![Manage Listing Requests](static/listingRequests.png)
 
 **View Your Listings**
-(View Your Listings)[static/viewListing.png]
+![View Your Listings](static/viewListing.png)
 
-### Lenders
+### Buyers
+
+### Rentees
 **Add Listing**
 ![Add Listing Diagram](static/AddListing.png)
 
 **Rental Dates Conflict**
 ![Rental Dates Conflict Diagram](static/RentalDatesConflict.png)
 
+### Sellers
+**Create Listing**
+![Create a Listing](static/seller_activity1.png)
+
+**View and Confirm Payment**
+![Confirm Payment](static/seller_activity2.png)
+
 ## Clickable Prototype
 
-Click (here)[https://www.figma.com/design/tinB5jIVPK3t07VVoDa5xX/turtle_Wireframe?node-id=0-1&t=wJV6R6hu07N2L0vz-1] for the clickable prototype.
+Click [here](https://www.figma.com/design/tinB5jIVPK3t07VVoDa5xX/turtle_Wireframe?node-id=0-1&t=wJV6R6hu07N2L0vz-1) for the clickable prototype.
 
-Click (here)[https://www.figma.com/board/uiMbACvNZ26yQVaQhiYjSI/turtle_AppMap?t=wJV6R6hu07N2L0vz-1] for the app map.
+Click [here](https://www.figma.com/board/uiMbACvNZ26yQVaQhiYjSI/turtle_AppMap?t=wJV6R6hu07N2L0vz-1) for the app map.
+
+Click [here](https://www.figma.com/files/team/1075815332585348015/project/549678064/Turtles?fuid=1595655509916578368) for our prototype folder on Figma.
+
