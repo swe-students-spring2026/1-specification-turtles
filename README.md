@@ -112,6 +112,19 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 - As a lender, I want a built-in message system that keeps track of all the history of unsent and edited message functions, so that I can document all verbal agreements and communications in one place to protect myself from fraud.
 - As a lender, I want to set my own terms of delivery and pickup policies and post them along with the listings, so that renters know exactly how to receive the item they rented, and it suits my convenience as an owner.
 
+### Sellers:
+- As a seller, I want to verify that buyers are NYU students so that I feel safe selling to them.
+- As a seller, I want to create a listing with photos, price, and condition so that buyers clearly understand what I’m selling.
+- As a seller, I want the app to suggest a fair price based on similar NYU listings so that I can sell faster without guessing.
+- As a seller, I want to set a deadline for when the item must be gone so that buyers understand urgency.
+- As a seller, I want to specify pickup or delivery options so that logistics are clear upfront.
+- As a seller, I want to communicate with buyers through in-app messaging so that I don’t have to switch between different apps or share my phone number.
+- As a seller, I want to receive and confirm payment within the same app so that buyers and sellers from different countries don’t struggle with incompatible payment platforms.
+- As a seller, I want to schedule pickup time windows in the app so that coordinating across time zones and schedules is simple.
+- As a seller, I want to mark an item as pending or sold so that I stop receiving unnecessary messages.
+- As a seller, I want clear payment status (paid / unpaid / pending) so that there is no confusion at pickup time.
+
+
 ### Admin:
 - As an admin, I want to review reported listings so that I can remove inappropriate or fraudulent content.
 - As an admin, I want to suspend or ban users who violate platform rules so that I can maintain a safe trading environment.
@@ -133,6 +146,17 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 **View Your Listings**
 (View Your Listings)[static/viewListing.png]
 
+### Buyers
+
+### Rentees
+
+### Sellers
+**Create Listing**
+(Create a Listing)[static/seller_activity1.png]
+
+**View and Confirm Payment**
+(Confirm Payment)[static/seller_activity2.png]
+
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+(Publicly-accessible link to our prototype folder on Figma)[https://www.figma.com/files/team/1075815332585348015/project/549678064/Turtles?fuid=1595655509916578368]
