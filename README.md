@@ -170,11 +170,11 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 ![Make Changes To Rental Diagram](static/MakeChangesToRental.png)
 
 ### Buyers
-**View and Select Listings**
-![Add Listing Diagram](static/buyer1.png)
+**As a buyer, I want to filter furniture by size, color, style, etc., so that I can quickly find pieces that fit myself.**
+![View and Select Listings Diagram](static/buyer1.png)
 
-**Refund/Issue with Item Quality**
-![Add Listing Diagram](static/buyer2.png)
+**As a buyer, I want a short return period so that I don't lose anything if the item isn’t as described or breaks right away.**
+![Refund/Issue with Item Quality Diagram](static/buyer2.png)
 
 ### Rentees
 **As a rentee, I want to create detailed listings with accurate labels and multiple photos, so that renters can know exactly what they are renting and have fewer complaints or questions for me.**
