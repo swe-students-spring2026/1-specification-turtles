@@ -8,27 +8,12 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-### Renters: 
-During the interview, a candidate of the "renters" demographic of the app talked about his desire to make use of his unused furniture, earn extra side money, and decrease furniture waste. See the full list of his goals/frustrations below:
-
-**Goals / Needs:**
-- Make use of furniture that would otherwise sit unused while traveling or studying abroad
-- Decrease waste of unused items
-- Earn extra income by renting furniture to other students
-- Make use of furniture items during break times such as winter or summer break
-
-**Problems / Frustrations:**
-- Furniture remains unused for months when they are away from school
-- Limited income and financial pressure as college students
-- No easy way to safely lend other students furniture in the short term 
-- Limited space in apartment makes storing unused furniture inconvenient
-
-### rentees:
+### Rentees:
 Interview Subject: A student who has their own production company and often rents out their gears to other people. See the full list of their goals/fristrations below:
 
 **Goals / Needs:**
-1. Easy to access on their phone to their rental page and messages, so they can see rental requests as soon as possible and talk to their renters more conveniently.
-2. Insurance and agreements that protect their rights and the safety of their belongings
+1. They want easy to access on their phone to their rental page and messages, so they can see rental requests as soon as possible and talk to their renters more conveniently.
+2. They want insurance and agreements that protect their rights and the safety of their belongings
 3. Space and opportunities to advertise their belongings so more people can see them and rent from them.
 4. Need to be able to rate the people who rented from them in terms of whether they are on time for pickup and drop of and how well they take care of the equipment.
 
@@ -37,6 +22,35 @@ Interview Subject: A student who has their own production company and often rent
 2. Don’t know who they are renting to on online rental websites. Thus, very hard to trust people who rent from them to be responsible and will take care of their objects.
 3. Renters are not responsive, causing difficulties for scheduling pick up and drop off times, and locking in the dates of rentals.
 4. Not a clear or logical label system where the owner doesn’t know how to label their listings, so renters can find them easily.
+
+During the interview, a candidate of the "renters" demographic of the app talked about his desire to make use of his unused furniture, earn extra side money, and decrease furniture waste. See the full list of his goals/frustrations below:
+
+**Goals / Needs:**
+1. Make use of furniture that would otherwise sit unused while traveling or studying abroad
+2. Decrease waste of unused items
+3. Earn extra income by renting furniture to other students
+4. Make use of furniture items during break times such as winter or summer break
+
+**Problems / Frustrations:**
+1. Furniture remains unused for months when they are away from school
+2. Limited income and financial pressure as college students
+3. No easy way to safely lend other students furniture in the short term 
+4. Limited space in apartment makes storing unused furniture inconvenient
+
+### Renters: 
+Interview Subject: An international student who is a senior in college and is currently looking for new furniture for their last year living around campus. See the full list of their goals and frustration below.
+
+**Goals / Needs:**
+1. They need furniture that they only need for a period of time.
+2. They want to see ratings for the furniture owner so they have a standard to decide whether to rent from them or not.
+3. They need to see the furniture owner's location so they can decide if they can pick it up or ship it to them.
+4. They want to see detailed photos of the furniture they are renting in order to insure that it is good to use.
+
+**Problems / Frustration**
+1. Buying new furniture is too expensive for only using it for a year.
+2. The current existing softwares are all open to everyone in the area, thus there are a lot of not trustworthy people to rent from.
+3. Many furniture owners don't reply or reply very slowly, causing inconvinience to scheduling pickup and drop off.
+4. Many existing platforms charge a large amount of extra fees for every transaction as a platform fee.
 
 ### Admins:
 Interview subject: A student who is experienced in buying and selling ACG goods and products on a second-hand platform. She addresses some needs and worries that an admin of such platform may have. 
@@ -58,16 +72,16 @@ Interview subject: A student who is experienced in buying and selling ACG goods 
 An international student at NYU was interviewed about their experience purchasing secondhand furniture while living off campus. See the full list of their goals/fristrations below:
 
 **Goals / Needs:**
-- Find furniture at a significantly lower price than new items
-- Make sure that items are up to quality and in good condition before buying
-- Opportunities to discover furniture with unique aesthetic/style that cannot be found in typical stores
-- Reduce waste by reusing furniture
+1. Find furniture at a significantly lower price than new items
+2. Make sure that items are up to quality and in good condition before buying
+3. Opportunities to discover furniture with unique aesthetic/style that cannot be found in typical stores
+4. Reduce waste by reusing furniture
 
 **Problems / Frustrations**
-- Difficulty finding specific styles/sizes/colors that match their needs
-- Challenges in transporting bulky items, especially as a student without a car in NYC
-- Lack of warranty if the furniture doesn't meet expectations or breaks quickly
-- Worry about hidden damages that sellers would potentially cover up for a better price
+1. Difficulty finding specific styles/sizes/colors that match their needs
+2. Challenges in transporting bulky items, especially as a student without a car in NYC
+3. Lack of warranty if the furniture doesn't meet expectations or breaks quickly
+4. Worry about hidden damages that sellers would potentially cover up for a better price
 
 ## Product Vision Statement
 
@@ -76,16 +90,16 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 ## User Requirements
 
 ### Renters: 
-- As a renter, I want to reduce clutter so that my living space feels more comfortable.
-- As a renter, I want to sell or share unused furniture so that it doesn’t go to waste.
-- As a renter, I want to earn extra income from unused items so that I can cover monthly expenses.
-- As a renter, I want to easily remove furniture I no longer need so that moving is less stressful.
-- As a renter, I want to repurpose unused furniture so that I live more sustainably.
-- As a renter, I want a simple way to list unused items so that others can benefit from them.
-- As a renter, I want to downsize my belongings so that my apartment is easier to maintain.
-- As a renter, I want to give away furniture I don’t use so that someone else can make use of it.
-- As a renter, I want to free up storage space so that my apartment feels more organized.
-- As a renter, I want to avoid throwing away usable furniture so that I reduce environmental impact.
+- As a renter, I want to see detailed listings with accurate labels and multiple photos, so that I know exactly what I am renting and have fewer complaints or questions for the rentee.
+- As a renter, I want a built-in message system that keeps track of all the history of unsent and edited message functions, so that I can document all verbal agreements and communications in one place to protect myself from fraud.
+- As a renter, I want to see detailed information about the person renting to me, so that I can make an informed decision about their reliability.
+- As a renter, I want to rent only when both the item is available and when the owner is available, so that I don’t need to cancel my booking due to the furniture’s unavailability.
+- As a renter, I want to filter by catogory, price range, and location when I am searching up a furniture, so that it is easier for me to find my desired furniture.
+- As a renter, I want to save listings on a wishlist, so that I can compare listings or come back to them later.
+- As a renter, I want to recieve notifications for new listings in a category I follow, so that I can request rentals as soon as possible if it fits my liking.
+- As a renter, I want to be able to extend my rental periods, so that I can keep the furniture longer if my plans change.
+- As a renter, I want to report any damage or maintainance issue, so that I can fix problems immediately and document them.
+- As a renter, I want to be able to end my rental period earlier, so that I can get a refund for the days I don't need it anymore if my plans change.
 
 ### Buyers:
 - As a buyer, I want to filter furniture by size, color, style, etc., so that I can quickly find pieces that fit myself.
@@ -109,8 +123,17 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 - As a rentee, I want to receive immediate notifications of receiving a rental request, so that I can reply to the request quickly and conveniently, and not miss any rental opportunities. 
 - As a rentee, I want to set a general pickup location on my profile, so that people don’t cancel rental requests because they found out the location is too far after booking it, while protecting my privacy regarding the exact location of my home.
 - As a rentee, I want to pay money for promoting my listings, so that I can let more people see my listings and have more rental requests.
-- As a rentee, I want a built-in message system that keeps track of all the history of unsent and edited message functions, so that I can document all verbal agreements and communications in one place to protect myself from fraud.
 - As a rentee, I want to set my own terms of delivery and pickup policies and post them along with the listings, so that renters know exactly how to receive the item they rented, and it suits my convenience as an owner.
+- As a rentee, I want to reduce clutter so that my living space feels more comfortable.
+- As a rentee, I want to sell or share unused furniture so that it doesn’t go to waste.
+- As a rentee, I want to earn extra income from unused items so that I can cover monthly expenses.
+- As a rentee, I want to easily remove furniture I no longer need so that moving is less stressful.
+- As a rentee, I want to repurpose unused furniture so that I live more sustainably.
+- As a rentee, I want a simple way to list unused items so that others can benefit from them.
+- As a rentee, I want to downsize my belongings so that my apartment is easier to maintain.
+- As a rentee, I want to give away furniture I don’t use so that someone else can make use of it.
+- As a rentee, I want to free up storage space so that my apartment feels more organized.
+- As a rentee, I want to avoid throwing away usable furniture so that I reduce environmental impact.
 
 ### Sellers:
 - As a seller, I want to verify that buyers are NYU students so that I feel safe selling to them.
@@ -140,11 +163,11 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 ## Activity Diagrams
 
 ### Renters
-**Manage Listing Requests**
-![Manage Listing Requests](static/listingRequests.png)
+**As a renter, I want to rent only when both the item is available and when the owner is available, so that I don’t need to cancel my booking due to the furniture’s unavailability.**
+![Rental Dates Conflict Diagram](static/RentalDatesConflict.png)
 
-**View Your Listings**
-![View Your Listings](static/viewListing.png)
+**As a renter, I want to be able to end my rental period earlier, so that I can get a refund for the days I don't need it anymore if my plans change.**
+![Make Changes To Rental Diagram](static/MakeChangesToRental.png)
 
 ### Buyers
 **View and Select Listings**
@@ -154,11 +177,14 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 ![Add Listing Diagram](static/buyer2.png)
 
 ### Rentees
-**Add Listing**
+**As a rentee, I want to create detailed listings with accurate labels and multiple photos, so that renters can know exactly what they are renting and have fewer complaints or questions for me.**
 ![Add Listing Diagram](static/AddListing.png)
 
-**Rental Dates Conflict**
-![Rental Dates Conflict Diagram](static/RentalDatesConflict.png)
+**Manage Listing Requests**
+![Manage Listing Requests](static/listingRequests.png)
+
+**View Your Listings**
+![View Your Listings](static/viewListing.png)
 
 ### Sellers
 **Create Listing**
