@@ -193,6 +193,13 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 **View and Confirm Payment**
 ![Confirm Payment](static/seller_activity2.png)
 
+### Admin
+**Resolve Disputes**
+![Resolve Disputes](static/resolvingDisputes.png)
+
+**Verify User**
+![Verify User](static/verifyingUser.png)
+
 ## Clickable Prototype
 
 Click [here](https://www.figma.com/design/tinB5jIVPK3t07VVoDa5xX/turtle_Wireframe?node-id=0-1&t=wJV6R6hu07N2L0vz-1) for the clickable prototype.
