@@ -147,6 +147,11 @@ A peer-to-peer marketplace where college students can buy, sell, rent, and lent 
 ![View Your Listings](static/viewListing.png)
 
 ### Buyers
+**View and Select Listings**
+![Add Listing Diagram](static/buyer1.png)
+
+**Refund/Issue with Item Quality**
+![Add Listing Diagram](static/buyer2.png)
 
 ### Rentees
 **Add Listing**
